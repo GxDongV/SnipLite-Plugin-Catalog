@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "plugins": [
+    {
+      "id": "sniplite.scroll-capture",
+      "name": "Scroll Capture",
+      "nameZhCn": "长截图",
+      "author": "GxDongV",
+      "description": "Capture and stitch a scrolling region automatically or manually.",
+      "descriptionZhCn": "自动或手动滚动选区，并拼接成长截图。",
+      "version": "0.1.7",
+      "apiVersion": 1,
+      "minHostVersion": "0.3.16",
+      "architecture": "any",
+      "downloadUrl": "https://github.com/GxDongV/SnipLite-ScrollCapture/releases/download/v0.1.7/sniplite.scroll-capture-0.1.7.snipplugin",
+      "sha256": "9c1e196a6c9f778be919477f00d0c7a435b6c67006a20213a34d9373b5301a04"
+    }
+  ]
+}
