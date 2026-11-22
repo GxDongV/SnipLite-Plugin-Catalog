@@ -12,8 +12,9 @@
       "apiVersion": 1,
       "minHostVersion": "0.3.16",
       "architecture": "any",
-      "downloadUrl": "https://github.com/GxDongV/SnipLite-ScrollCapture/releases/download/v0.1.7/sniplite.scroll-capture-0.1.7.snipplugin",
-      "sha256": "9c1e196a6c9f778be919477f00d0c7a435b6c67006a20213a34d9373b5301a04"
+      "downloadUrl": "https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.7/sniplite.scroll-capture-0.1.7.snipplugin",
+      "sha256": "9c1e196a6c9f778be919477f00d0c7a435b6c67006a20213a34d9373b5301a04",
+      "category": "capture"
     }
   ]
 }
