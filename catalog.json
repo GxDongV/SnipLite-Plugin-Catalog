@@ -8,12 +8,12 @@
       "author": "GxDongV",
       "description": "Capture and stitch a scrolling region automatically or manually.",
       "descriptionZhCn": "自动或手动滚动选区，并拼接成长截图。",
-      "version": "0.1.13",
+      "version": "0.1.15",
       "apiVersion": 1,
       "minHostVersion": "0.3.16",
       "architecture": "any",
-      "downloadUrl": "https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.13/sniplite.scroll-capture-0.1.13.snipplugin",
-      "sha256": "bb074d7c989162cd5e901a3e77db9d13bf0d88a15d0ab1d2205c3a879c6d1113",
+      "downloadUrl": "https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.15/sniplite.scroll-capture-0.1.15.snipplugin",
+      "sha256": "f0aa82945a4b94f2d7e27733b632e473be32eef7148e6e420a67507006544431",
       "category": "capture"
     }
   ]

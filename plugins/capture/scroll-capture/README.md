@@ -4,9 +4,12 @@
 
 | 版本 | SnipLite 版本 | 安装包 |
 | --- | --- | --- |
+| 0.1.15 | 0.3.16 及以上 | [下载 .snipplugin](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.15/sniplite.scroll-capture-0.1.15.snipplugin) |
 | 0.1.13 | 0.3.16 及以上 | [下载 .snipplugin](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.13/sniplite.scroll-capture-0.1.13.snipplugin) |
 | 0.1.8 | 0.3.16 及以上 | [下载 .snipplugin](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.8/sniplite.scroll-capture-0.1.8.snipplugin) |
 | 0.1.7 | 0.3.16 及以上 | [下载 .snipplugin](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.7/sniplite.scroll-capture-0.1.7.snipplugin) |
+
+0.1.15 在捕获完成后直接打开主程序的图像预览。SnipLite 0.3.19 提供新版窗口样式和图标工具栏。
 
 0.1.13 将固定顶栏、左右侧栏和底栏分别保留在长图开头、首屏两侧和末尾。长图预览带有复制、保存和缩放图标。
 
@@ -15,4 +18,4 @@
 
 更新后重启 SnipLite。
 
-[版本发布页](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/tag/scroll-capture-v0.1.13) · [插件源码](https://github.com/GxDongV/SnipLite-ScrollCapture)
+[版本发布页](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/tag/scroll-capture-v0.1.15) · [插件源码](https://github.com/GxDongV/SnipLite-ScrollCapture)
