@@ -4,10 +4,13 @@
 
 | 版本 | SnipLite 版本 | 安装包 |
 | --- | --- | --- |
+| 0.1.20 | 0.3.16 及以上 | [下载 .snipplugin](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.20/sniplite.scroll-capture-0.1.20.snipplugin) |
 | 0.1.15 | 0.3.16 及以上 | [下载 .snipplugin](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.15/sniplite.scroll-capture-0.1.15.snipplugin) |
 | 0.1.13 | 0.3.16 及以上 | [下载 .snipplugin](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.13/sniplite.scroll-capture-0.1.13.snipplugin) |
 | 0.1.8 | 0.3.16 及以上 | [下载 .snipplugin](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.8/sniplite.scroll-capture-0.1.8.snipplugin) |
 | 0.1.7 | 0.3.16 及以上 | [下载 .snipplugin](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.7/sniplite.scroll-capture-0.1.7.snipplugin) |
+
+0.1.20 会记住自动滚动开关。自动和手动长截图都会显示拼接进度，并避免截入控制面板的阴影。
 
 0.1.15 在捕获完成后直接打开主程序的图像预览。SnipLite 0.3.19 提供新版窗口样式和图标工具栏。
 
@@ -18,4 +21,4 @@
 
 更新后重启 SnipLite。
 
-[版本发布页](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/tag/scroll-capture-v0.1.15) · [插件源码](https://github.com/GxDongV/SnipLite-ScrollCapture)
+[版本发布页](https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/tag/scroll-capture-v0.1.20) · [插件源码](https://github.com/GxDongV/SnipLite-ScrollCapture)
