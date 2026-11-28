@@ -4,7 +4,7 @@
 
 | 类别 | 插件 |
 | --- | --- |
-| [截图](plugins/capture/) | [长截图](plugins/capture/scroll-capture/) |
+| [截图](plugins/capture/) | [长截图](plugins/capture/scroll-capture/) · [屏幕录制](plugins/capture/screen-recorder/) |
 
 ## 「发现插件」如何工作
 

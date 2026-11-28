@@ -15,6 +15,21 @@
       "downloadUrl": "https://github.com/GxDongV/SnipLite-Plugin-Catalog/releases/download/scroll-capture-v0.1.20/sniplite.scroll-capture-0.1.20.snipplugin",
       "sha256": "a3bf225dcb237c90e119ed6600bf40d08242300090dfb0b3fc002e80f8807269",
       "category": "capture"
+    },
+    {
+      "id": "sniplite.screen-recorder",
+      "name": "Screen Recorder",
+      "nameZhCn": "屏幕录制",
+      "author": "GxDongV",
+      "description": "Record a selected region to MP4, GIF, APNG, or animated WebP with optional audio and input effects.",
+      "descriptionZhCn": "录制屏幕选区，导出 MP4、GIF、APNG 或动态 WebP，可启用音频和键鼠特效。",
+      "version": "0.5.12",
+      "apiVersion": 1,
+      "minHostVersion": "0.3.31",
+      "architecture": "x64",
+      "downloadUrl": "https://github.com/GxDongV/SnipLite-ScreenRecorder/releases/download/v0.5.12/sniplite.screen-recorder-0.5.12-win-x64.snipplugin",
+      "sha256": "218febb83f27da9d29b71d8f1f08a1af0170d357eef9310e626c8c7088e92112",
+      "category": "capture"
     }
   ]
 }
